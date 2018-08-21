@@ -22,7 +22,7 @@ for navigating my git repositories and sharing useful websites
 ## Study
 - [Warrior.js](https://warrior.js.org/) : javascript study website
 - [Cryptozombies](https://cryptozombies.io/ko/) : solidity study website
-- [Siba machine learning](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe
+- [Siba machine learning](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe)
 - [Deep learning](https://www.youtube.com/user/hunkims)
 
 ## Design
