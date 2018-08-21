@@ -29,7 +29,7 @@ for navigating my git repositories and sharing useful websites
 
 ## Tool
 
-- [cakebrew]https://www.cakebrew.com/ : GUI brew tool
+- [cakebrew](https://www.cakebrew.com/) : GUI brew tool
 
 ## Etc.
 
