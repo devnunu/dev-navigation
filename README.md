@@ -20,12 +20,16 @@ for navigating my git repositories and sharing useful websites
 ## Project
 
 ## Study
-- [Warrior.js](https://warrior.js.org/)
-- [Cryptozombies](https://cryptozombies.io/ko/)
+- [Warrior.js](https://warrior.js.org/) : javascript study website
+- [Cryptozombies](https://cryptozombies.io/ko/) : solidity study website
 
 ## Design
 
 - [cssgradient](https://cssgradient.io/gradient-backgrounds/)
+
+## Tool
+
+- [cakebrew]https://www.cakebrew.com/ : GUI brew tool
 
 ## Etc.
 
