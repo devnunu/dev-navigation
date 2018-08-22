@@ -8,6 +8,7 @@ for navigating my git repositories and sharing useful websites
 
 ## Study
 
+- [Compulsory Reading](https://github.com/nunu-dev/compulsory-reading/wiki)
 - [Solidity](https://github.com/nunu-dev/solidity-study/wiki)
 - [Code Interview](https://github.com/nunu-dev/code-interview)
 
