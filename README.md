@@ -8,9 +8,9 @@ for navigating my git repositories and sharing useful websites
 
 ## Study
 
-- [Compulsory Reading](https://github.com/nunu-dev/compulsory-reading/wiki)
-- [Solidity](https://github.com/nunu-dev/solidity-study/wiki)
-- [Code Interview](https://github.com/nunu-dev/code-interview)
+- [Compulsory Reading](https://github.com/nunu-dev/compulsory-reading/wiki) : 프로그래밍 필수 도서 정리
+- [Solidity](https://github.com/nunu-dev/solidity-study/wiki) : 솔리디티 문법 및 사용 예제
+- [Code Interview](https://github.com/nunu-dev/code-interview) : 코드 인터뷰 예상 질문
 
 # Useful website
 
