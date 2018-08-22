@@ -21,8 +21,8 @@ for navigating my git repositories and sharing useful websites
 ## Project
 
 ## Study
-- [Warrior.js](https://warrior.js.org/) : javascript study website
-- [Cryptozombies](https://cryptozombies.io/ko/) : solidity study website
+- [Warrior.js](https://warrior.js.org/) : 자바스크립트를 게임으로 배울 수 있다.
+- [Cryptozombies](https://cryptozombies.io/ko/) : 솔리디티를 크립토 좀비라는 서비스를 만들면서 배울 수 있다.
 - [Siba machine learning](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe)
 - [Deep learning](https://www.youtube.com/user/hunkims)
 
