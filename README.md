@@ -35,7 +35,7 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [프로그래밍 서적 필독서](https://www.sangkon.com/2018/08/27/good_books_for_dev_2018/)
 - [ofcouse](https://ofcourse.kr/) : HTML / CSS / Javascript 간단 요약
 - [홈짱](http://www.homejjang.com/) : 홈페이지 제작가이드 (HTML / CSS)
-- [codecademy](https://www.codecademy.com/)
+- [codecademy](https://www.codecademy.com/) : 코드카데미
 
 ## Design
 
@@ -43,8 +43,8 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [flatuicolors](https://flatuicolors.com/) : 색 조합 모음
 - [coolors](https://coolors.co/) : 색 조합 generator
 - [paletton](http://paletton.com/#uid=13g0u0kk2L29hWEfeRboiE9trxK) : 비슷한 계열의 색 찾아줌
-- [font-awesome](https://fontawesome.com/?from=io) : 무료 아이콘
-- [fontello](http://fontello.com/)
+- [font-awesome](https://fontawesome.com/?from=io) : 무료 아이콘 모음
+- [fontello](http://fontello.com/) : 무료 아이콘 모음
 - [google font](https://fonts.google.com/) : 무료 웹폰트
 - [animate.css](https://daneden.github.io/animate.css/) : 애니메이션 라이브러리
 - [startbootstrap](https://startbootstrap.com/) : 부트스트랩 테마, 템플릿
@@ -53,8 +53,8 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [sketchappsources](https://www.sketchappsources.com/) : 스케치에 사용되는 리소스 모음
 - [behance](https://www.behance.net/) : 디자이너 포트폴리오 모음
 - [dribbble](https://dribbble.com/) : 디자이너 포트폴리오 모음
-- [material](https://material.io/)
-- [getemoji](https://getemoji.com/)
+- [material](https://material.io/) : 머터리얼 디자인
+- [getemoji](https://getemoji.com/) : 이모지 모음
 
 
 ## Tool
@@ -64,8 +64,8 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 
 ## Algorithm
 
-- [Codewars](https://www.codewars.com/dashboard)
-- [Backjoon](https://www.acmicpc.net/)
+- [Codewars](https://www.codewars.com/dashboard) : 코드워즈 (카타별로 난이도 분류)
+- [Backjoon](https://www.acmicpc.net/) : 백준 온라인 저지
 
 ## Etc.
 
