@@ -32,6 +32,7 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [programmers](https://programmers.co.kr/)
 - [edwith](https://www.edwith.org/)
 - [visualgo](https://visualgo.net/ko): 알고리즘의 시각화
+- [프로그래밍 서적 필독서](https://www.sangkon.com/2018/08/27/good_books_for_dev_2018/)
 
 ## Design
 
