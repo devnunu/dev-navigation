@@ -1,6 +1,6 @@
 # dev-navigation
 
-for navigating my git repositories and sharing useful websites
+nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 
 # My Repository
 
