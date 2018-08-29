@@ -88,6 +88,8 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [Platum](https://platum.kr/)
 - [Nomad coder mailing](https://us16.list-manage.com/subscribe?u=a99b43453db5050f1f26b2744&id=cc02020e1a)
 - [Css animation mailing](https://cssanimation.rocks/weekly/)
+- [Sangkon's Weekly Tech News](https://www.sangkon.com/tag/weekly/)
+- [Outsider Dev News](https://blog.outsider.ne.kr/category/Newsletter)
 
 ### Meeting
 - [MeetUp](https://www.meetup.com/ko-KR/)
