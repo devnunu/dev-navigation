@@ -82,6 +82,7 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [kocoafab](https://kocoafab.cc/)
 - [카카오 기술 블로그](http://tech.kakao.com/)
 - [Outsider](https://blog.outsider.ne.kr/)
+- [우아한 형제들 기술 블로그](http://woowabros.github.io/)
 
 ### News
 
