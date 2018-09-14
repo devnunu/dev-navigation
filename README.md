@@ -94,6 +94,7 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [Css animation mailing](https://cssanimation.rocks/weekly/)
 - [Sangkon's Weekly Tech News](https://www.sangkon.com/tag/weekly/)
 - [Outsider Dev News](https://blog.outsider.ne.kr/category/Newsletter)
+- [개발자 트랜드](http://heej.in/)
 
 ### Meeting
 
