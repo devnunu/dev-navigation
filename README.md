@@ -23,6 +23,9 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 ## 외주
 - [wishket](https://www.wishket.com/mywishket/partners/)
 - [kmong](https://kmong.com/)
+- [freemoa](https://freemoa.net/)
+- [soomgo](https://soomgo.com/)
+- [elancer](https://elancer.co.kr/)
 
 ## Project
 
