@@ -20,6 +20,7 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [React Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 - [Cdnjs](https://cdnjs.com/) : 라이브러리 CDN 링크 모음
 - [indiemakers](https://indiemakers.net/) : 사이드 프로젝트 모음
+- [gatsbyjs](https://www.gatsbyjs.org/) : 정적인 웹사이트를 react로 빌드해주는 프레임워크
 
 ## 외주
 - [wishket](https://www.wishket.com/mywishket/partners/)
