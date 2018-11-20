@@ -98,15 +98,16 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 
 ### News
 
-- [Microsoftware](https://www.imaso.co.kr/)
-- [Zdnet korea](http://www.zdnet.co.kr/?lo=zv1)
-- [Techcrunch](https://techcrunch.com/)
-- [Platum](https://platum.kr/)
+- [Microsoftware](https://www.imaso.co.kr/) : 일간 뉴스 포스
+- [Zdnet korea](http://www.zdnet.co.kr/?lo=zv1) : IT 뉴스
+- [Techcrunch](https://techcrunch.com/) : 실리콘 밸리 뉴스
+- [Platum](https://platum.kr/) : 스타트업 관련 뉴스
 - [Nomad coder mailing](https://us16.list-manage.com/subscribe?u=a99b43453db5050f1f26b2744&id=cc02020e1a)
 - [Css animation mailing](https://cssanimation.rocks/weekly/)
-- [Sangkon's Weekly Tech News](https://www.sangkon.com/tag/weekly/)
-- [Outsider Dev News](https://blog.outsider.ne.kr/category/Newsletter)
+- [Sangkon's Weekly Tech News](https://www.sangkon.com/tag/weekly/) : 주간 뉴스 포스팅
+- [Outsider Dev News](https://blog.outsider.ne.kr/category/Newsletter) : 15일 주기로 뉴스 포스팅
 - [개발자 트랜드](http://heej.in/)
+- [Velog](https://velog.io/trending): 지금 뜨고있는 포스트
 
 ### Meeting
 
