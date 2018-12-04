@@ -1,6 +1,6 @@
 # dev-navigation
 
-nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
+devnunu의 레포지토리 네이게이션 및 유용한 사이트 모음
 
 # My Repository
 
@@ -30,23 +30,40 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [soomgo](https://soomgo.com/)
 - [elancer](https://elancer.co.kr/)
 
-## Project
 
 ## Study
-- [Warrior.js](https://warrior.js.org/) : 자바스크립트를 게임으로 배울 수 있다.
-- [Cryptozombies](https://cryptozombies.io/ko/) : 솔리디티를 크립토 좀비라는 서비스를 만들면서 배울 수 있다.
-- [Siba machine learning](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe) : 머신러닝 유튜브 강의
-- [Deep learning](https://www.youtube.com/user/hunkims) : 딥러닝 유튜브 강의
+
+### General
+
 - [inflearn](https://www.inflearn.com/)
 - [opentutorials - 생활코딩](https://opentutorials.org/course/1)
 - [programmers](https://programmers.co.kr/)
 - [edwith](https://www.edwith.org/)
-- [visualgo](https://visualgo.net/ko): 알고리즘의 시각화
 - [프로그래밍 서적 필독서](https://www.sangkon.com/2018/08/27/good_books_for_dev_2018/)
+- [codecademy](https://www.codecademy.com/) : 코드카데미
+
+### Machine Learning
+
+- [Siba machine learning](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe) : 머신러닝 유튜브 강의
+- [Deep learning](https://www.youtube.com/user/hunkims) : 딥러닝 유튜브 강의
+
+### Javascript/html/css
+
+- [Warrior.js](https://warrior.js.org/) : 자바스크립트를 게임으로 배울 수 있다.
 - [ofcouse](https://ofcourse.kr/) : HTML / CSS / Javascript 간단 요약
 - [홈짱](http://www.homejjang.com/) : 홈페이지 제작가이드 (HTML / CSS)
-- [codecademy](https://www.codecademy.com/) : 코드카데미
 - [웹 프로그래밍 튜토리얼](https://poiemaweb.com/): 웹 프로그래밍 튜토리얼
+
+### Crypto
+
+- [Cryptozombies](https://cryptozombies.io/ko/) : 솔리디티를 크립토 좀비라는 서비스를 만들면서 배울 수 있다.
+
+### Algorithm
+
+- [visualgo](https://visualgo.net/ko): 알고리즘의 시각화
+
+### Etc
+
 - [디자인 러닝 로드맵](https://www.degreeless.design/) : 디자인 러닝 로드맵
 
 ## Design Resource
