@@ -30,7 +30,6 @@ devnunu의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [soomgo](https://soomgo.com/)
 - [elancer](https://elancer.co.kr/)
 
-
 ## Study
 
 ### General
@@ -53,7 +52,7 @@ devnunu의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [ofcouse](https://ofcourse.kr/) : HTML / CSS / Javascript 간단 요약
 - [홈짱](http://www.homejjang.com/) : 홈페이지 제작가이드 (HTML / CSS)
 - [웹 프로그래밍 튜토리얼](https://poiemaweb.com/): 웹 프로그래밍 튜토리얼
-
+- [css-tricks](https://css-tricks.com/): css 기초/응용 강의
 ### Crypto
 
 - [Cryptozombies](https://cryptozombies.io/ko/) : 솔리디티를 크립토 좀비라는 서비스를 만들면서 배울 수 있다.
