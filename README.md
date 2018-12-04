@@ -49,35 +49,45 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [웹 프로그래밍 튜토리얼](https://poiemaweb.com/): 웹 프로그래밍 튜토리얼
 - [디자인 러닝 로드맵](https://www.degreeless.design/) : 디자인 러닝 로드맵
 
-## Design
+## Design Resource
 
-- [cssgradient](https://cssgradient.io/gradient-backgrounds/) : 그라디언트 색 모음
-- [flatuicolors](https://flatuicolors.com/) : 색 조합 모음
-- [coolors](https://coolors.co/) : 색 조합 generator
-- [paletton](http://paletton.com/#uid=13g0u0kk2L29hWEfeRboiE9trxK) : 비슷한 계열의 색 찾아줌
-- [font-awesome](https://fontawesome.com/?from=io) : 무료 아이콘 모음
-- [fontello](http://fontello.com/) : 무료 아이콘 모음
-- [google font](https://fonts.google.com/) : 무료 웹폰트
-- [animate.css](https://daneden.github.io/animate.css/) : 애니메이션 라이브러리
+### Images
+
+- [pixabay](https://pixabay.com/ko/) : 무료이미지 저장소
+
+### Template/Design
+
 - [startbootstrap](https://startbootstrap.com/) : 부트스트랩 테마, 템플릿
 - [templated](https://templated.co/) : 템플릿 모음
-- [pixabay](https://pixabay.com/ko/) : 무료이미지 저장소
 - [sketchappsources](https://www.sketchappsources.com/) : 스케치에 사용되는 리소스 모음
 - [behance](https://www.behance.net/) : 디자이너 포트폴리오 모음
 - [dribbble](https://dribbble.com/) : 디자이너 포트폴리오 모음
 - [material](https://material.io/) : 머터리얼 디자인
+
+### Resource - Icon/Font/Emoji/Logo/UI
+
+- [font-awesome](https://fontawesome.com/?from=io) : 무료 아이콘 모음
+- [fontello](http://fontello.com/) : 무료 아이콘 모음
+- [google font](https://fonts.google.com/) : 무료 웹폰트
 - [getemoji](https://getemoji.com/) : 이모지 모음
 - [hatchful](https://hatchful.shopify.com/) : 로고 자동 생성 사이트
 - [uisources](https://www.uisources.com/apps): ui 모음
 - [IconGenerator](https://github.com/onmyway133/IconGenerator): 아이콘 생성기
-- [picular](https://picular.co/): 컬러 생성기
-- [React UI 모음](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 - [emojibuilder](http://phlntn.com/emojibuilder/): 이모티콘 생성기
 - [emojious](https://www.emojious.com): 무료 이모티콘 모음
+- [React Native UI 모음](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 
+### Color
+- [cssgradient](https://cssgradient.io/gradient-backgrounds/) : 그라디언트 색 모음
+- [flatuicolors](https://flatuicolors.com/) : 색 조합 모음
+- [coolors](https://coolors.co/) : 색 조합 generator
+- [paletton](http://paletton.com/#uid=13g0u0kk2L29hWEfeRboiE9trxK) : 비슷한 계열의 색 찾아줌
+- [picular](https://picular.co/): 컬러 생성기
 
-## Library
--[ant design](https://ant.design/): 리액트 디자인 라이
+### Library
+
+- [ant design](https://ant.design/): 리액트 디자인 라이브러리
+- [animate.css](https://daneden.github.io/animate.css/) : 애니메이션 라이브러리
 
 ## Tool
 
@@ -91,7 +101,7 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 
 ## Etc.
 
-### Blog
+### Tech Blog
 
 - [널리](http://nuli.navercorp.com/)
 - [네이버 D2](https://d2.naver.com/home)
@@ -105,16 +115,19 @@ nunu-dev의 레포지토리 네이게이션 및 유용한 사이트 모음
 
 ### News
 
-- [Microsoftware](https://www.imaso.co.kr/) : 일간 뉴스 포스
+- [Microsoftware](https://www.imaso.co.kr/) : IT Daliy New
 - [Zdnet korea](http://www.zdnet.co.kr/?lo=zv1) : IT 뉴스
 - [Techcrunch](https://techcrunch.com/) : 실리콘 밸리 뉴스
 - [Platum](https://platum.kr/) : 스타트업 관련 뉴스
-- [Nomad coder mailing](https://us16.list-manage.com/subscribe?u=a99b43453db5050f1f26b2744&id=cc02020e1a)
-- [Css animation mailing](https://cssanimation.rocks/weekly/)
 - [Sangkon's Weekly Tech News](https://www.sangkon.com/tag/weekly/) : 주간 뉴스 포스팅
 - [Outsider Dev News](https://blog.outsider.ne.kr/category/Newsletter) : 15일 주기로 뉴스 포스팅
-- [개발자 트랜드](http://heej.in/)
 - [Velog](https://velog.io/trending): 지금 뜨고있는 포스트
+- [개발자 트랜드](http://heej.in/)
+
+### Mailing
+
+- [Nomad coder mailing](https://us16.list-manage.com/subscribe?u=a99b43453db5050f1f26b2744&id=cc02020e1a) : 노마드 코더 메일링
+- [Css animation mailing](https://cssanimation.rocks/weekly/) // CSS 메일링
 
 ### Meeting
 
