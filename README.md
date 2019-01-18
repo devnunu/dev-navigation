@@ -108,6 +108,7 @@ devnunu의 레포지토리 네이게이션 및 유용한 사이트 모음
 
 - [ant design](https://ant.design/): 리액트 디자인 라이브러리
 - [animate.css](https://daneden.github.io/animate.css/) : 애니메이션 라이브러리
+- [react-kawaii](https://react-kawaii.now.sh/?fbclid=IwAR1geopUJ-dR7mX84tzCgaTueWpS6F3SEMvb3dBMM3tLFYw7wFiPy3S02f4): 리액트 카와이
 
 ## Tool
 
