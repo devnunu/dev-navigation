@@ -97,6 +97,7 @@ devnunu의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [React Native UI 모음](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 - [logo-maker](https://ko.wix.com/logo/maker)
 - [emojipedia](https://emojipedia.org/) : emoji 모음
+- [mixkit](https://mixkit.co/) : 저작권 없는 짧은 동영상 모음
 
 ### Color
 - [cssgradient](https://cssgradient.io/gradient-backgrounds/) : 그라디언트 색 모음
