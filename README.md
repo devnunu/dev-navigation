@@ -117,6 +117,7 @@ devnunu의 레포지토리 네이게이션 및 유용한 사이트 모음
 
 - [cakebrew](https://www.cakebrew.com/) : GUI brew tool
 - [color scripter](https://colorscripter.com/) : code highlighter
+- [netlify](https://www.netlify.com/) : 정적 배포
 
 ## Algorithm
 
