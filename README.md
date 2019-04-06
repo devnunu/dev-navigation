@@ -106,6 +106,7 @@ devnunu의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [paletton](http://paletton.com/#uid=13g0u0kk2L29hWEfeRboiE9trxK) : 비슷한 계열의 색 찾아줌
 - [picular](https://picular.co/): 컬러 생성기
 - [colorion](https://material.colorion.co/popular)
+- [data color picker](https://learnui.design/tools/data-color-picker.html): 차트 데이터 컬러를 찾아
 
 ### Library
 
