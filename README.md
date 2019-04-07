@@ -56,6 +56,10 @@ devnunu의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [css-tricks](https://css-tricks.com/): css 기초/응용 강의
 - [poiemaweb](https://poiemaweb.com/)
 
+### android
+
+- [android architecture example](https://github.com/googlesamples/android-architecture) : 안드로이드 아키텍쳐 구글 예제 
+
 ### Crypto
 
 - [Cryptozombies](https://cryptozombies.io/ko/) : 솔리디티를 크립토 좀비라는 서비스를 만들면서 배울 수 있다.
