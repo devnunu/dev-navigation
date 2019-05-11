@@ -155,6 +155,11 @@ devnunu의 레포지토리 네이게이션 및 유용한 사이트 모음
 - [Velog](https://velog.io/trending): 지금 뜨고있는 포스트
 - [개발자 트랜드](http://heej.in/)
 
+### 아티클 모음
+
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+
 ### Mailing
 
 - [Nomad coder mailing](https://us16.list-manage.com/subscribe?u=a99b43453db5050f1f26b2744&id=cc02020e1a) : 노마드 코더 메일링
