@@ -35,6 +35,7 @@ devnunu의 레포지토리 네이게이션 및 유용한 사이트 모음
 
 ### General
 
+- [무료기술서적 pdf](http://gen.lib.rus.ec/)
 - [inflearn](https://www.inflearn.com/)
 - [opentutorials - 생활코딩](https://opentutorials.org/course/1)
 - [programmers](https://programmers.co.kr/)
